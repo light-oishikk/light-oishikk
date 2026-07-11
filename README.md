@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2e,100:0d47a1&height=200&section=header&text=Oishik%20Kar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Quantum%20Computing%20·%20Photonics%20·%20ML&descAlignY=58&descSize=18&descFontColor=90caf9)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7Cquantum%E2%9F%A9+%2B+%CE%B2%7Cclassical%E2%9F%A9;Quantum+Imaging+%C2%B7+Reservoir+Computing+%C2%B7+QML;IIIT+Dharwad+%C2%B7+CGPA+10.0)](https://github.com/light-oishikk)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4FC3F7&center=true&vCenter=true&width=550&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7Cquantum%E2%9F%A9+%2B+%CE%B2%7Cclassical%E2%9F%A9;Quantum+Photonics+%C2%B7+Reservoir+Computing+%C2%B7+QML;IIIT+Dharwad+%C2%B7+2023%E2%80%932027;%2F%2F+superposition%3A+researcher+%26+student)](https://github.com/light-oishikk)
 
 </div>
 
