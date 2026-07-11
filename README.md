@@ -8,7 +8,7 @@
 
 ---
 
-I work on quantum-classical hybrid systems, photonic computing, and quantum machine learning. Most of my research sits at the boundary where quantum hardware meets classical signal processing — trying to get useful outputs from systems that are noisy, sparse, and hard to simulate.
+I work on quantum-classical hybrid systems, photonic computing, and quantum machine learning. Most of my research sits at the boundary where quantum hardware meets classical signal processing, trying to get useful outputs from systems that are noisy, sparse, and hard to simulate.
 
 Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at QWorld on counterfactual quantum communication, at C-DAC on quantum-inspired neural networks, and at Qmet Tech Foundation (IIT Bombay / National Quantum Mission) on deep learning for quantum imaging.
 
@@ -17,7 +17,7 @@ Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at 
 ### Research
 
 **[Hybrid Photonic-Quantum Reservoir Computing](https://github.com/light-oishikk/Hybrid-Photonic-Quantum-Reservoir-Computing-for-Time-Series-Prediction.)** &nbsp;·&nbsp; *Preprint*
-> Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency — 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
+> Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency, 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
 
 **[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *Qmet Tech Fellowship · IIT Bombay / National Quantum Mission · 2026*
 > Survey of deep learning-based reconstruction for quantum imaging systems. 12-page manuscript, 40 references, PyTorch simulation pipeline, GPU benchmarks across FCN / CNN / U-Net.
@@ -29,7 +29,7 @@ Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at 
 > Patient-independent 1D CNN on 45,898 segmented PPG windows. 86.03% sensitivity, 0.71 AUC on unseen hold-out set.
 
 **[Accelerating Grover's Algorithm via Quantum Photonics](https://github.com/light-oishikk/Accelerating-Grover-s-algorithm-using-quantum-photonics)**
-> 17.54× speedup on 35 qubits; random optimised topology reaches 45× at 0.00257s execution.
+> 17.54x speedup on 35 qubits. Random optimised topology reaches 45x at 0.00257s execution.
 
 ---
 
@@ -49,7 +49,7 @@ Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,linux,git,latex&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,linux,git,latex&theme=dark)](https://skillicons.dev)
 
 `Qiskit` &nbsp;`Pennylane` &nbsp;`Strawberry Fields` &nbsp;`Cirq` &nbsp;`NetSquid` &nbsp;`Lumerical`
 
