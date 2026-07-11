@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2e,100:0d47a1&height=200&section=header&text=Oishik%20Kar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Quantum%20Computing%20·%20Photonics%20·%20ML&descAlignY=58&descSize=18&descFontColor=90caf9)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:050d1a,50:0a1628,100:0d2f5e&height=220&section=header&text=Oishik%20Kar&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Quantum%20Computing%20·%20Photonics%20·%20ML&descAlignY=58&descSize=17&descFontColor=64b5f6)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=4FC3F7&center=true&vCenter=true&width=550&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7Cquantum%E2%9F%A9+%2B+%CE%B2%7Cclassical%E2%9F%A9;Quantum+Photonics+%C2%B7+Reservoir+Computing+%C2%B7+QML;IIIT+Dharwad+%C2%B7+2023%E2%80%932027;%2F%2F+superposition%3A+researcher+%26+student)](https://github.com/light-oishikk)
 
@@ -16,7 +16,7 @@ Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at 
 
 ### Research
 
-**[Hybrid Photonic-Quantum Reservoir Computing](https://github.com/light-oishikk/Hybrid-Photonic-Quantum-Reservoir-Computing-for-Time-Series-Prediction.)** &nbsp;·&nbsp; *Preprint*
+**Hybrid Photonic-Quantum Reservoir Computing** &nbsp;·&nbsp; *Preprint*
 > Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency, 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
 
 **[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *Qmet Tech Fellowship · IIT Bombay / National Quantum Mission · 2026*
