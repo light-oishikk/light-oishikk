@@ -1,12 +1,8 @@
 <div align="center">
 
-```
-|ψ⟩ = α|quantum⟩ + β|classical⟩
-```
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0e2e,100:0d47a1&height=200&section=header&text=Oishik%20Kar&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Quantum%20Computing%20·%20Photonics%20·%20ML&descAlignY=58&descSize=18&descFontColor=90caf9)
 
-# Oishik Kar
-
-`B.Tech CSE + Minor in Quantum Information Sciences · IIIT Dharwad · 2023–2027`
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=4FC3F7&center=true&vCenter=true&width=500&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7Cquantum%E2%9F%A9+%2B+%CE%B2%7Cclassical%E2%9F%A9;Quantum+Imaging+%C2%B7+Reservoir+Computing+%C2%B7+QML;IIIT+Dharwad+%C2%B7+CGPA+10.0)](https://github.com/light-oishikk)
 
 </div>
 
@@ -14,13 +10,13 @@
 
 I work on quantum-classical hybrid systems, photonic computing, and quantum machine learning. Most of my research sits at the boundary where quantum hardware meets classical signal processing — trying to get useful outputs from systems that are noisy, sparse, and hard to simulate.
 
-Currently at IIIT Dharwad (CGPA 10.0). Have an arXiv preprint out. Interned at QWorld on counterfactual quantum communication, at C-DAC on quantum-inspired neural networks, and at Qmet Tech Foundation (IIT Bombay / National Quantum Mission) on deep learning for quantum imaging.
+Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at QWorld on counterfactual quantum communication, at C-DAC on quantum-inspired neural networks, and at Qmet Tech Foundation (IIT Bombay / National Quantum Mission) on deep learning for quantum imaging.
 
 ---
 
 ### Research
 
-**[Hybrid Photonic-Quantum Reservoir Computing](https://github.com/light-oishikk/Hybrid-Photonic-Quantum-Reservoir-Computing-for-Time-Series-Prediction.)** &nbsp;·&nbsp; [`arXiv:2511.09218`](https://arxiv.org/abs/2511.09218)
+**[Hybrid Photonic-Quantum Reservoir Computing](https://github.com/light-oishikk/Hybrid-Photonic-Quantum-Reservoir-Computing-for-Time-Series-Prediction.)** &nbsp;·&nbsp; *Preprint*
 > Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency — 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
 
 **[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *Qmet Tech Fellowship · IIT Bombay / National Quantum Mission · 2026*
@@ -29,8 +25,8 @@ Currently at IIIT Dharwad (CGPA 10.0). Have an arXiv preprint out. Interned at Q
 **Quantum-Inspired Neural Networks for Edge Computing** &nbsp;·&nbsp; *C-DAC Mohali · Preprint*
 > Entanglement-inspired feature correlations and interference-based modulation in a classical network. 97.8% accuracy on food classification, validated cross-domain on chest X-ray pneumonia detection.
 
-**Sleep Apnea Detection from PPG Signals** &nbsp;·&nbsp; *IIIT Dharwad · Preprint*
-> Patient-independent 1D CNN framework on 45,898 segmented PPG windows. 86.03% sensitivity, 0.71 AUC on unseen hold-out set.
+**Sleep Apnea Detection from PPG Signals** &nbsp;·&nbsp; *Preprint*
+> Patient-independent 1D CNN on 45,898 segmented PPG windows. 86.03% sensitivity, 0.71 AUC on unseen hold-out set.
 
 **[Accelerating Grover's Algorithm via Quantum Photonics](https://github.com/light-oishikk/Accelerating-Grover-s-algorithm-using-quantum-photonics)**
 > 17.54× speedup on 35 qubits; random optimised topology reaches 45× at 0.00257s execution.
@@ -40,9 +36,9 @@ Currently at IIIT Dharwad (CGPA 10.0). Have an arXiv preprint out. Interned at Q
 ### Awards
 
 ```
-Qiskit Fall Fest 2024 Winner                      IBM
-C-DAC Quantum Brainathon 2025    2nd Place        Ministry of Electronics & IT
-Wukong Quantum Computing Cup 2026   3rd Globally  China
+Qiskit Fall Fest 2024 Winner                       IBM
+C-DAC Quantum Brainathon 2025     2nd Place        Ministry of Electronics & IT
+Wukong Quantum Computing Cup 2026  3rd Globally    China
 GiQ Quandela Quantum Hackathon 2026  4th Place
 Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 ```
@@ -51,16 +47,20 @@ Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 
 ### Stack
 
-```
-Quantum   Qiskit · Pennylane · Strawberry Fields · Cirq · NetSquid
-ML        PyTorch · TensorFlow · Keras · Scikit-learn
-Tools     Lumerical · LaTeX · Git · Linux
-```
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,cpp,linux,git,latex&theme=dark)](https://skillicons.dev)
+
+`Qiskit` &nbsp;`Pennylane` &nbsp;`Strawberry Fields` &nbsp;`Cirq` &nbsp;`NetSquid` &nbsp;`Lumerical`
+
+</div>
 
 ---
 
 <div align="center">
 
 [linkedin.com/in/oishik-kar](https://linkedin.com/in/oishik-kar) &nbsp;·&nbsp; `23bcs089@iiitdwd.ac.in`
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0a0e2e&height=100&section=footer)
 
 </div>
