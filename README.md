@@ -6,45 +6,61 @@
 
 # Oishik Kar
 
-`B.Tech CSE · IIIT Dharwad · 2023–2027`
+`B.Tech CSE + Minor in Quantum Information Sciences · IIIT Dharwad · 2023–2027`
 
 </div>
 
 ---
 
-I work on the problem of image reconstruction in quantum imaging systems — specifically where deep learning meets quantum optics.
+I work on quantum-classical hybrid systems, photonic computing, and quantum machine learning. Most of my research sits at the boundary where quantum hardware meets classical signal processing — trying to get useful outputs from systems that are noisy, sparse, and hard to simulate.
 
-Quantum ghost imaging can form an image without the detector ever seeing the object directly. The catch: the reconstruction is severely ill-posed, the measurements are sparse, and nobody agrees on a benchmark. This summer I spent two months on exactly that — reviewing 40 papers, building a simulation pipeline in PyTorch, and benchmarking fully connected, convolutional, and U-Net architectures across sampling ratios from 6% to 25%.
-
-The short finding: U-Nets consistently win, deep unfolding is underexplored in quantum settings, and there is no controlled study comparing quantum vs. classical correlations under an identical reconstruction pipeline. That gap is interesting to me.
+Currently at IIIT Dharwad (CGPA 10.0). Have an arXiv preprint out. Interned at QWorld on counterfactual quantum communication, at C-DAC on quantum-inspired neural networks, and at Qmet Tech Foundation (IIT Bombay / National Quantum Mission) on deep learning for quantum imaging.
 
 ---
 
-### Work
+### Research
 
-**[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *2026*
-> Survey of deep learning-based reconstruction for quantum imaging systems. 12-page manuscript, 40 references, PyTorch codebase, GPU experiments on MNIST ghost imaging.
+**[Hybrid Photonic-Quantum Reservoir Computing](https://github.com/light-oishikk/Hybrid-Photonic-Quantum-Reservoir-Computing-for-Time-Series-Prediction.)** &nbsp;·&nbsp; [`arXiv:2511.09218`](https://arxiv.org/abs/2511.09218)
+> Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency — 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
+
+**[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *Qmet Tech Fellowship · IIT Bombay / National Quantum Mission · 2026*
+> Survey of deep learning-based reconstruction for quantum imaging systems. 12-page manuscript, 40 references, PyTorch simulation pipeline, GPU benchmarks across FCN / CNN / U-Net.
+
+**Quantum-Inspired Neural Networks for Edge Computing** &nbsp;·&nbsp; *C-DAC Mohali · Preprint*
+> Entanglement-inspired feature correlations and interference-based modulation in a classical network. 97.8% accuracy on food classification, validated cross-domain on chest X-ray pneumonia detection.
+
+**Sleep Apnea Detection from PPG Signals** &nbsp;·&nbsp; *IIIT Dharwad · Preprint*
+> Patient-independent 1D CNN framework on 45,898 segmented PPG windows. 86.03% sensitivity, 0.71 AUC on unseen hold-out set.
+
+**[Accelerating Grover's Algorithm via Quantum Photonics](https://github.com/light-oishikk/Accelerating-Grover-s-algorithm-using-quantum-photonics)**
+> 17.54× speedup on 35 qubits; random optimised topology reaches 45× at 0.00257s execution.
 
 ---
 
-### Interests
+### Awards
 
 ```
-Quantum imaging          Ghost imaging reconstruction
-Compressed sensing       Deep unfolding
-Sub-shot-noise imaging   Inverse problems
+Qiskit Fall Fest 2024 Winner                      IBM
+C-DAC Quantum Brainathon 2025    2nd Place        Ministry of Electronics & IT
+Wukong Quantum Computing Cup 2026   3rd Globally  China
+GiQ Quandela Quantum Hackathon 2026  4th Place
+Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 ```
+
+---
 
 ### Stack
 
 ```
-Python   PyTorch   LaTeX   C++   Linux
+Quantum   Qiskit · Pennylane · Strawberry Fields · Cirq · NetSquid
+ML        PyTorch · TensorFlow · Keras · Scikit-learn
+Tools     Lumerical · LaTeX · Git · Linux
 ```
 
 ---
 
 <div align="center">
 
-`23bcs089@iiitdwd.ac.in`
+[linkedin.com/in/oishik-kar](https://linkedin.com/in/oishik-kar) &nbsp;·&nbsp; `23bcs089@iiitdwd.ac.in`
 
 </div>
