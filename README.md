@@ -8,39 +8,38 @@
 
 ---
 
-I work on quantum-classical hybrid systems, photonic computing, and quantum machine learning. Most of my research sits at the boundary where quantum hardware meets classical signal processing, trying to get useful outputs from systems that are noisy, sparse, and hard to simulate.
+Third year at IIIT Dharwad. Working on quantum systems and what happens when you plug ML into them.
 
-Currently at IIIT Dharwad (CGPA 10.0). Have research preprints out. Interned at QWorld on counterfactual quantum communication, at C-DAC on quantum-inspired neural networks, and at Qmet Tech Foundation (IIT Bombay / National Quantum Mission) on deep learning for quantum imaging.
+Built a hybrid photonic-quantum reservoir computer coupling a 5-qubit transmon circuit with a silicon nitride waveguide array. Worked on ghost imaging reconstruction at IIT Bombay under the National Quantum Mission. Spent time at QWorld on counterfactual quantum key distribution, and at C-DAC on quantum-inspired neural networks for edge deployment.
 
 ---
 
-### Research
+### Work
 
-**Hybrid Photonic-Quantum Reservoir Computing** &nbsp;·&nbsp; *Preprint*
-> Coupled a 5-qubit superconducting transmon circuit with a silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 21.8ms latency, 56% reduction over classical RC. Benchmarked on S&P 500 and MIT-BIH ECG.
+**[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *2026*
+Survey + experiments on deep learning-based reconstruction for quantum imaging. 12-page manuscript, 40 references, PyTorch codebase, GPU benchmarks.
 
-**[parimana](https://github.com/light-oishikk/parimana)** &nbsp;·&nbsp; *Qmet Tech Fellowship · IIT Bombay / National Quantum Mission · 2026*
-> Survey of deep learning-based reconstruction for quantum imaging systems. 12-page manuscript, 40 references, PyTorch simulation pipeline, GPU benchmarks across FCN / CNN / U-Net.
+**Hybrid Photonic-Quantum Reservoir Computing** &nbsp;·&nbsp; *2024*
+5-qubit transmon + silicon nitride photonic waveguide array for time-series prediction. 92.37% accuracy, 56% latency reduction over classical RC.
 
-**Quantum-Inspired Neural Networks for Edge Computing** &nbsp;·&nbsp; *C-DAC Mohali · Preprint*
-> Entanglement-inspired feature correlations and interference-based modulation in a classical network. 97.8% accuracy on food classification, validated cross-domain on chest X-ray pneumonia detection.
+**[Accelerating Grover's Algorithm via Quantum Photonics](https://github.com/light-oishikk/Accelerating-Grover-s-algorithm-using-quantum-photonics)** &nbsp;·&nbsp; *2024*
+17.54x speedup on 35 qubits. Random optimised topology: 45x at 0.00257s.
 
-**Sleep Apnea Detection from PPG Signals** &nbsp;·&nbsp; *Preprint*
-> Patient-independent 1D CNN on 45,898 segmented PPG windows. 86.03% sensitivity, 0.71 AUC on unseen hold-out set.
+**Quantum-Inspired Neural Networks for Edge Computing** &nbsp;·&nbsp; *C-DAC Mohali*
+Entanglement-inspired correlations in a classical network. 97.8% on food classification, cross-validated on chest X-ray detection.
 
-**[Accelerating Grover's Algorithm via Quantum Photonics](https://github.com/light-oishikk/Accelerating-Grover-s-algorithm-using-quantum-photonics)**
-> 17.54x speedup on 35 qubits. Random optimised topology reaches 45x at 0.00257s execution.
+**Sleep Apnea Detection from PPG** &nbsp;·&nbsp; *IIIT Dharwad*
+1D CNN on 45,898 PPG windows. 86.03% sensitivity, 0.71 AUC on unseen patients.
 
 ---
 
 ### Awards
 
 ```
-Qiskit Fall Fest 2024 Winner                       IBM
-C-DAC Quantum Brainathon 2025     2nd Place        Ministry of Electronics & IT
-Wukong Quantum Computing Cup 2026  3rd Globally    China
+Qiskit Fall Fest 2024                Winner     IBM
+C-DAC Quantum Brainathon 2025        2nd Place  Ministry of Electronics & IT, India
+Wukong Quantum Computing Cup 2026    3rd Place  China (Global)
 GiQ Quandela Quantum Hackathon 2026  4th Place
-Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 ```
 
 ---
@@ -61,6 +60,6 @@ Parimana QMet Tech Fellowship        IIT Bombay · National Quantum Mission
 
 [linkedin.com/in/oishik-kar](https://linkedin.com/in/oishik-kar) &nbsp;·&nbsp; `23bcs089@iiitdwd.ac.in`
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:0a0e2e&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0d2f5e,100:050d1a&height=100&section=footer)
 
 </div>
