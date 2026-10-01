@@ -1,8 +1,8 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:18162F,50:2E2A6E,100:5B21B6&height=230&section=header&text=Oishik%20Kar&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=quantum%20photonics%20%C2%B7%20reservoir%20computing%20%C2%B7%20ML&descAlignY=56&descSize=18&descFontColor=c4b5fd" />
-  <img alt="Oishik Kar" src="https://capsule-render.vercel.app/api?type=venom&color=0:EEF2FF,50:E0E7FF,100:C7D2FE&height=230&section=header&text=Oishik%20Kar&fontSize=54&fontColor=1E1B4B&fontAlignY=36&animation=twinkling&desc=quantum%20photonics%20%C2%B7%20reservoir%20computing%20%C2%B7%20ML&descAlignY=56&descSize=18&descFontColor=6D28D9" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:18162F%2C50:2E2A6E%2C100:5B21B6&height=230&section=header&text=Oishik%20Kar&fontSize=54&fontColor=ffffff&fontAlignY=36&animation=twinkling&desc=quantum%20photonics%20%C2%B7%20reservoir%20computing%20%C2%B7%20ML&descAlignY=56&descSize=18&descFontColor=c4b5fd" />
+  <img alt="Oishik Kar" src="https://capsule-render.vercel.app/api?type=venom&color=0:EEF2FF%2C50:E0E7FF%2C100:C7D2FE&height=230&section=header&text=Oishik%20Kar&fontSize=54&fontColor=1E1B4B&fontAlignY=36&animation=twinkling&desc=quantum%20photonics%20%C2%B7%20reservoir%20computing%20%C2%B7%20ML&descAlignY=56&descSize=18&descFontColor=6D28D9" />
 </picture>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1200&color=8B5CF6&center=true&vCenter=true&width=600&lines=%7C%CF%88%E2%9F%A9+%3D+%CE%B1%7Cquantum%E2%9F%A9+%2B+%CE%B2%7Cclassical%E2%9F%A9;apprentice+%40+Boeing;Physica+Scripta+%2726+first+author;benchmark+first%2C+claim+later;open+to+research+collabs)](https://github.com/light-oishikk)
@@ -117,8 +117,8 @@ Also: Google Cybersecurity Professional Certificate.
 Open to research collaborations and quantum internships. Honest take: quantum doesn't win everywhere, and a lot of the field is running on hype right now. That's exactly why I benchmark first and report what actually happens, wins and ties. Got a problem where quantum is supposed to help? Send it over. You'll get the real answer.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6,50:2E2A6E,100:18162F&height=110&section=footer" />
-  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:C7D2FE,50:E0E7FF,100:F8FAFC&height=110&section=footer" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:5B21B6%2C50:2E2A6E%2C100:18162F&height=110&section=footer" />
+  <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:C7D2FE%2C50:E0E7FF%2C100:F8FAFC&height=110&section=footer" />
 </picture>
 
 </div>
